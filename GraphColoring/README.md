@@ -11,6 +11,7 @@ If *V* is the number of vertices and *E* is the number of edges, this algorithm 
 
 This program can be run from an IDE such as Eclipse or Netbeans. If that is done, the VM flag, `Xss25m` must be set in the run/build configuration.
 After it is built, it can be run from the command line:
+
 `$ java Xss25m -jar GraphColoring.jar <Insert filename here>`
 
 If no filename is provided as an argument, it will use the three sample files.
